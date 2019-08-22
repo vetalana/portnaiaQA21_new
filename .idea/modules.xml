@@ -5,9 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first.iml" filepath="$PROJECT_DIR$/.idea/modules/first.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first.test.iml" filepath="$PROJECT_DIR$/.idea/modules/first.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" />
     </modules>
   </component>
 </project>
