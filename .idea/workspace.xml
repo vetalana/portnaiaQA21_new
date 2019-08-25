@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3d77-6652-4ccf-85e6-6aad8003d791" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/classes/java/test/com/telran/selenium/OpenGoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/classes/java/test/com/telran/selenium/OpenGoogleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/reports/tests/test/classes/com.telran.selenium.OpenGoogleTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/reports/tests/test/classes/com.telran.selenium.OpenGoogleTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/reports/tests/test/packages/com.telran.selenium.html" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/reports/tests/test/packages/com.telran.selenium.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/test-results/test/TEST-com.telran.selenium.OpenGoogleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/test-results/test/TEST-com.telran.selenium.OpenGoogleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/OpenGoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/OpenGoogleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/com.telran.selenium1.SearchWikiTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/com.telran.selenium1.SearchWikiTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/com.telran.selenium1.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/com.telran.selenium1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-com.telran.selenium1.SearchWikiTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-com.telran.selenium1.SearchWikiTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +57,15 @@
                 <item name="first" type="f1a62948:ProjectNode" />
                 <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wikipedia-web-tests" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wikipedia-web-tests" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -67,8 +89,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wikipedia-web-tests/build.gradle" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -85,7 +108,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.SearchWikiTest.SearchWiki">
+  <component name="RunManager" selected="Gradle.OpenGoogleTest.searchJavaTest">
+    <configuration name="OpenGoogleTest.clickIAmFillingLucky" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest.clickIAmFillingLucky&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenGoogleTest.clickIAmFillingLuckyButton" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest.clickIAmFillingLuckyButton&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OpenGoogleTest.searchJavaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest.searchJavaTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="OpenGoogleTest.setUp" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -128,7 +211,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.OpenGoogleTest.searchJavaTest" />
+        <item itemvalue="Gradle.OpenGoogleTest.clickIAmFillingLuckyButton" />
         <item itemvalue="Gradle.SearchWikiTest.SearchWiki" />
+        <item itemvalue="Gradle.OpenGoogleTest.clickIAmFillingLucky" />
         <item itemvalue="Gradle.OpenGoogleTest.setUp" />
       </list>
     </recent_temporary>

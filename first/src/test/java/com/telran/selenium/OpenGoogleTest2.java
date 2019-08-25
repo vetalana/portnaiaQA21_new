@@ -11,15 +11,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 
-public class OpenGoogleTest {
-    WebDriver driver;
-
-    @BeforeMethod
-    public void setUp() {
-        driver = new ChromeDriver();
-        // driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.get("https://www.google.com");
-    }
+public class OpenGoogleTest2 extends TestBase {
 
     @Test
     public void searchJavaTest() throws InterruptedException {
@@ -31,12 +23,8 @@ public class OpenGoogleTest {
     }
 
 
-    @AfterMethod
-    public void tearDown() {
-        driver.quit();
-    }
 }
-    //    @Test
+//    @Test
 //    public void clickIAmFillingLucky(){
 //        new Actions(driver).moveToElement(driver.findElement(By.name("btnI"))).click().perform();
 //        driver.findElement(By.name("btnI")).click();
