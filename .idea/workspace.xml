@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3d77-6652-4ccf-85e6-6aad8003d791" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/build/classes/java/test/com/telran/selenium/OpenGoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/classes/java/test/com/telran/selenium/OpenGoogleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/build/classes/java/test/com/telran/selenium/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/classes/java/test/com/telran/selenium/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first/build/reports/tests/test/classes/com.telran.selenium.OpenGoogleTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/reports/tests/test/classes/com.telran.selenium.OpenGoogleTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first/build/reports/tests/test/packages/com.telran.selenium.html" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/reports/tests/test/packages/com.telran.selenium.html" afterDir="false" />
@@ -13,11 +12,13 @@
       <change beforePath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/first/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/OpenGoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/OpenGoogleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/com.telran.selenium1.SearchWikiTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/com.telran.selenium1.SearchWikiTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/LoginToEbay.java" beforeDir="false" afterPath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/LoginToEbay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/OpenGoogleTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/OpenGoogleTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/first/src/test/java/com/telran/selenium/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/com.telran.selenium1.SearchWikiTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/com.telran.selenium1.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/com.telran.selenium1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-com.telran.selenium1.SearchWikiTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-com.telran.selenium1.SearchWikiTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-com.telran.selenium1.SearchWikiTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
@@ -108,13 +109,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.OpenGoogleTest.searchJavaTest">
-    <configuration name="OpenGoogleTest.clickIAmFillingLucky" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.Tests in 'com.telran.selenium'">
+    <configuration name="LoginToEbay1.logInTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest.clickIAmFillingLucky&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.LoginToEbay1.logInTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -129,12 +130,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="OpenGoogleTest.clickIAmFillingLuckyButton" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LoginToEbay.logInTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest.clickIAmFillingLuckyButton&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.LoginToEbay.logInTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -149,12 +150,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="OpenGoogleTest.searchJavaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="OpenGoogleTest2.searchJavaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest.searchJavaTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest2.searchJavaTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -169,12 +170,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="OpenGoogleTest.setUp" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Tests in 'com.telran.selenium'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest.setUp&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.*&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -189,12 +190,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SearchWikiTest.SearchWiki" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="WikiLogIn.wikiLogInTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium1.SearchWikiTest.SearchWiki&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.telran.selenium1.WikiLogIn.wikiLogInTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -211,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.OpenGoogleTest.searchJavaTest" />
-        <item itemvalue="Gradle.OpenGoogleTest.clickIAmFillingLuckyButton" />
-        <item itemvalue="Gradle.SearchWikiTest.SearchWiki" />
-        <item itemvalue="Gradle.OpenGoogleTest.clickIAmFillingLucky" />
-        <item itemvalue="Gradle.OpenGoogleTest.setUp" />
+        <item itemvalue="Gradle.Tests in 'com.telran.selenium'" />
+        <item itemvalue="Gradle.OpenGoogleTest2.searchJavaTest" />
+        <item itemvalue="Gradle.LoginToEbay1.logInTest" />
+        <item itemvalue="Gradle.LoginToEbay.logInTest" />
+        <item itemvalue="Gradle.WikiLogIn.wikiLogInTest" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +238,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
