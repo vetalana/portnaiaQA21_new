@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="wikitestsprogressive.LoginWikiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-25T19:26:17" hostname="DESKTOP-7T33ROT" time="2.426">
+  <properties/>
+  <testcase name="loginTest" classname="wikitestsprogressive.LoginWikiTest" time="2.426"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

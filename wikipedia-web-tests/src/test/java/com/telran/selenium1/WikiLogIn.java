@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
 public class WikiLogIn extends TestBase{
-    @Test
+    @Test(enabled = false)
     public void wikiLogInTest(){
         driver.get("https://en.wikipedia.org");
 

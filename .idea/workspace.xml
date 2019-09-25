@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3d77-6652-4ccf-85e6-6aad8003d791" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/first.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/SearchWikiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/SearchWikiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/WikiLogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/WikiLogIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/com.telran.selenium1.WikiLogIn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/com.telran.selenium1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-com.telran.selenium1.WikiLogIn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/SearchWikiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/SearchWikiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/WikiLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/WikiLogIn.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,26 +47,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="first" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="first" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="wikipedia-web-tests" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="wikipedia-web-tests" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -72,11 +71,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trello_Elena" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="wikitestsprogressive" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,53 +94,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'com.telran.selenium'">
-    <configuration name="LoginToEbay1.logInTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="TestNG.C:/Users/lana/Documents/GitHub/portnaiaQA21_new/wikipedia-web-tests/src/test/resources/testng.xml">
+    <configuration name="LoginWikiTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.LoginToEbay1.logInTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LoginToEbay.logInTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.LoginToEbay.logInTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="OpenGoogleTest2.searchJavaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.OpenGoogleTest2.searchJavaTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.LoginWikiTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -171,12 +135,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WikiLogIn.wikiLogInTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Tests in 'wikipedia-web-tests.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium1.WikiLogIn.wikiLogInTest&quot;" />
+        <option name="scriptParameters" value="--tests *" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -191,13 +155,43 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Tests in 'wikitestsprogressive'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/lana/Documents/GitHub/portnaiaQA21_new/wikipedia-web-tests/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wikipedia-web-tests.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/wikipedia-web-tests/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/lana/Documents/GitHub/portnaiaQA21_new/wikipedia-web-tests/src/test/resources/testng.xml" />
+        <item itemvalue="Gradle.Tests in 'wikipedia-web-tests.test'" />
+        <item itemvalue="Gradle.Tests in 'wikitestsprogressive'" />
+        <item itemvalue="Gradle.LoginWikiTest" />
         <item itemvalue="Gradle.Tests in 'com.telran.selenium'" />
-        <item itemvalue="Gradle.OpenGoogleTest2.searchJavaTest" />
-        <item itemvalue="Gradle.LoginToEbay1.logInTest" />
-        <item itemvalue="Gradle.LoginToEbay.logInTest" />
-        <item itemvalue="Gradle.WikiLogIn.wikiLogInTest" />
       </list>
     </recent_temporary>
   </component>
