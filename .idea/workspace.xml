@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3d77-6652-4ccf-85e6-6aad8003d791" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/first.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/SearchWikiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/SearchWikiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/WikiLogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/com/telran/selenium1/WikiLogIn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/com.telran.selenium1.WikiLogIn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/com.telran.selenium1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-com.telran.selenium1.WikiLogIn.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/SearchWikiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/SearchWikiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/WikiLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/WikiLogIn.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trello_sPortnaia" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
