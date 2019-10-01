@@ -8,18 +8,18 @@ public class SearchWikiTests extends  TestBase {
 
 
     @Test(priority=2)
-    public void searchWikiTestJava(){
-        app.typeRequest("radiation");
-        app.clickGoButton();
-        Assert.assertEquals(app.getArticleTitle().toLowerCase(), "radiation".toLowerCase());
+    public void searchWikiTest1(){
+        app.getArticleHelper().typeRequest("radiation");
+        app.getArticleHelper().clickGoButton();
+        Assert.assertEquals(app.getArticleHelper().getArticleTitle().toLowerCase(), "radiation".toLowerCase());
     }
 
 
     @Test (priority=1)
-    public void searchWikiTestQA(){
-        app.typeRequest("calendar");
-        app.clickGoButton();
-        Assert.assertEquals(app.getArticleTitle().toLowerCase(), "calendar".toLowerCase());
+    public void searchWikiTest2(){
+        app.getArticleHelper().typeRequest("calendar");
+        app.getArticleHelper().clickGoButton();
+        Assert.assertEquals(app.getArticleHelper().getArticleTitle().toLowerCase(), "calendar".toLowerCase());
     }
 
 

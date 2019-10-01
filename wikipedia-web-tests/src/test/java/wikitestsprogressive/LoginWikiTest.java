@@ -8,9 +8,9 @@ public class LoginWikiTest extends TestBase {
 
     @Test
     public void loginTest() {
-        app.initLogin();
-        app.fillLoginForm("svetlana.portnaia@gmail.com", "Aa1234556789");
-        app.confirmLogin();
+        app.getSessionHelper().initLogin();
+        app.getSessionHelper().fillLoginForm("svetlana.portnaia@gmail.com", "Aa1234556789");
+        app.getSessionHelper().confirmLogin();
     }
 
 
