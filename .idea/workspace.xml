@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3d77-6652-4ccf-85e6-6aad8003d791" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/ApplicationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/ArticleHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/HelperBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/LoginWikiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/SearchWikiTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/SessionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.LoginWikiTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.SearchWikiTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.LoginWikiTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.LoginWikiTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.SearchWikiTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.SearchWikiTests.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/wikitestsprogressive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/resources/test/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/resources/test/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.LoginWikiTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.SearchWikiTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/wikitestsprogressive.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/wikitestsprogressive.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.LoginWikiTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.LoginWikiTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.SearchWikiTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.SearchWikiTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/SessionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
