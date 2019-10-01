@@ -21,16 +21,4 @@ public class HelperBase {
         driver.findElement(locator).sendKeys(text);
     }
 
-    public void confirmLogin() {
-        click(By.name("wploginattempt"));
-    }
-
-    public void fillLoginForm(String email, String password) {
-        type(By.id("wpName1"), email);
-        type(By.id("wpPassword1"), password);
-    }
-
-    public void initLogin() {
-        click(By.id("pt-login"));
-    }
 }

@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65215665-ba1e-41ed-bc66-671d06277962" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/ArticleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/LoginWikiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/tests/LoginWikiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/SearchWikiTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/tests/SearchWikiTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/SessionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65215665-ba1e-41ed-bc66-671d06277962" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../trello_sPortnaia" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />

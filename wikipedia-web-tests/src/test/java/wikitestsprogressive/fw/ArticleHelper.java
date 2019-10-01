@@ -8,11 +8,6 @@ public class ArticleHelper extends HelperBase{
         super(driver);
     }
 
-    public void stop() throws InterruptedException {
-        Thread.sleep(5000);
-        driver.quit();
-    }
-
     public void typeRequest(String request) {
         type(By.name("search"), request);
     }

@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3d77-6652-4ccf-85e6-6aad8003d791" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/ApplicationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/ArticleHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/HelperBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/LoginWikiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/SearchWikiTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/SessionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.LoginWikiTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.SearchWikiTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/wikitestsprogressive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/resources/test/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/resources/test/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.LoginWikiTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.SearchWikiTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/SessionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +52,12 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wikipedia-web-tests" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -53,7 +81,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trello_sPortnaia" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -76,13 +104,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/lana/Documents/GitHub/portnaiaQA21_new/wikipedia-web-tests/src/test/resources/testng.xml">
+  <component name="RunManager" selected="Gradle.Tests in 'wikitestsprogressive.tests'">
     <configuration name="LoginWikiTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.LoginWikiTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.tests.LoginWikiTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -97,32 +125,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Tests in 'com.telran.selenium'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/first" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.selenium.*&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="Tests in 'wikipedia-web-tests.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SearchWikiTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests *" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.tests.SearchWikiTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -137,12 +145,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Tests in 'wikitestsprogressive'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SearchWikiTests.searchWikiTest1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.*&quot;" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.tests.SearchWikiTests.searchWikiTest1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'wikitestsprogressive.tests'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.tests.*&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -169,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/lana/Documents/GitHub/portnaiaQA21_new/wikipedia-web-tests/src/test/resources/testng.xml" />
-        <item itemvalue="Gradle.Tests in 'wikipedia-web-tests.test'" />
-        <item itemvalue="Gradle.Tests in 'wikitestsprogressive'" />
+        <item itemvalue="Gradle.Tests in 'wikitestsprogressive.tests'" />
         <item itemvalue="Gradle.LoginWikiTest" />
-        <item itemvalue="Gradle.Tests in 'com.telran.selenium'" />
+        <item itemvalue="Gradle.SearchWikiTests.searchWikiTest1" />
+        <item itemvalue="Gradle.SearchWikiTests" />
+        <item itemvalue="TestNG.C:/Users/lana/Documents/GitHub/portnaiaQA21_new/wikipedia-web-tests/src/test/resources/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -202,21 +230,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/SearchWikiTest.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/wikipedia-web-tests/src/test/java/com/telran/selenium1/SearchWikiTest.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

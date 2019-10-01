@@ -3,8 +3,8 @@
 <suite name="Regression" verbose="1" >
     <test name="Regression_wiki" >
         <classes>
-            <class name="wikitestsprogressive.SearchWikiTests" />
-            <class name="wikitestsprogressive.LoginWikiTest" />
+            <class name="wikitestsprogressive.tests.SearchWikiTests" />
+            <class name="wikitestsprogressive.tests.LoginWikiTest" />
         </classes>
     </test>
 
