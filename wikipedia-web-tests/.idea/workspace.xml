@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65215665-ba1e-41ed-bc66-671d06277962" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/wikitestsprogressive/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/wikitestsprogressive/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/wikitestsprogressive/LoginWikiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/wikitestsprogressive/LoginWikiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/wikitestsprogressive/SearchWikiTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/wikitestsprogressive/SearchWikiTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/wikitestsprogressive.LoginWikiTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/wikitestsprogressive.LoginWikiTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/wikitestsprogressive.SearchWikiTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/wikitestsprogressive.SearchWikiTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/wikitestsprogressive.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/wikitestsprogressive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-wikitestsprogressive.LoginWikiTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-wikitestsprogressive.LoginWikiTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-wikitestsprogressive.SearchWikiTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-wikitestsprogressive.SearchWikiTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/LoginWikiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/LoginWikiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/SearchWikiTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/SearchWikiTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/ArticleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/LoginWikiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/tests/LoginWikiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/SearchWikiTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/tests/SearchWikiTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/fw/SessionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/wikitestsprogressive/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

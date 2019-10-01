@@ -1,4 +1,4 @@
-package wikitestsprogressive;
+package wikitestsprogressive.tests;
 
 import org.testng.annotations.Test;
 

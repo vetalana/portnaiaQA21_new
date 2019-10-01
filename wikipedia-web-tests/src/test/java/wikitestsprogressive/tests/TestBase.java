@@ -1,9 +1,8 @@
-package wikitestsprogressive;
+package wikitestsprogressive.tests;
 
-import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
+import wikitestsprogressive.fw.ApplicationManager;
 
 
 public class TestBase {
