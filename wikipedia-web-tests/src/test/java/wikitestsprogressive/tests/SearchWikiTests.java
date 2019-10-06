@@ -9,17 +9,17 @@ public class SearchWikiTests extends  TestBase {
 
     @Test(priority=2)
     public void searchWikiTest1(){
-        app.getArticleHelper().typeRequest("radiation");
+        app.getArticleHelper().typeRequest("Radiation");
         app.getArticleHelper().clickGoButton();
-        Assert.assertEquals(app.getArticleHelper().getArticleTitle().toLowerCase(), "radiation".toLowerCase());
+        Assert.assertEquals(app.getArticleHelper().getArticleTitle().toLowerCase(), "Radiation".toLowerCase());
     }
 
 
     @Test (priority=1)
     public void searchWikiTest2(){
-        app.getArticleHelper().typeRequest("calendar");
+        app.getArticleHelper().typeRequest("Calendar");
         app.getArticleHelper().clickGoButton();
-        Assert.assertEquals(app.getArticleHelper().getArticleTitle().toLowerCase(), "calendar".toLowerCase());
+        Assert.assertEquals(app.getArticleHelper().getArticleTitle().toLowerCase(), "Calendar".toLowerCase());
     }
 
 
