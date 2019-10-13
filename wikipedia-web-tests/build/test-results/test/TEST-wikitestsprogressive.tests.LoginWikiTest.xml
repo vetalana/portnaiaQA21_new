@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="wikitestsprogressive.tests.LoginWikiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-06T18:18:13" hostname="DESKTOP-7T33ROT" time="3.669">
+<testsuite name="wikitestsprogressive.tests.LoginWikiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-13T15:58:41" hostname="DESKTOP-7T33ROT" time="3.003">
   <properties/>
-  <testcase name="loginTest" classname="wikitestsprogressive.tests.LoginWikiTest" time="3.669"/>
+  <testcase name="loginTest" classname="wikitestsprogressive.tests.LoginWikiTest" time="3.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

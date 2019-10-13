@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bc3d77-6652-4ccf-85e6-6aad8003d791" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/fw/ArticleHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/fw/ArticleHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/tests/LoginWikiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/tests/LoginWikiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/tests/SearchWikiTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/tests/SearchWikiTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/classes/java/test/wikitestsprogressive/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.LoginWikiTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.LoginWikiTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.SearchWikiTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/classes/wikitestsprogressive.tests.SearchWikiTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/wikitestsprogressive.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/reports/tests/test/packages/wikitestsprogressive.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.LoginWikiTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.LoginWikiTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.SearchWikiTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/TEST-wikitestsprogressive.tests.SearchWikiTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/fw/ArticleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/LoginWikiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/LoginWikiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/SearchWikiTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/SearchWikiTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia-web-tests/src/test/java/wikitestsprogressive/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,27 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'wikitestsprogressive.tests'">
-    <configuration name="LoginWikiTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.tests.LoginWikiTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.Tests in 'wikitestsprogressive'">
     <configuration name="SearchWikiTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -142,12 +142,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Tests in 'wikitestsprogressive.tests'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SearchWikiTests.searchWikiTestwithDataProvider" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.tests.*&quot;" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.tests.SearchWikiTests.searchWikiTestwithDataProvider&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'wikitestsprogressive'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/wikipedia-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;wikitestsprogressive.*&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -174,10 +194,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Tests in 'wikitestsprogressive.tests'" />
-        <item itemvalue="Gradle.LoginWikiTest" />
-        <item itemvalue="Gradle.SearchWikiTests.searchWikiTest1" />
+        <item itemvalue="Gradle.Tests in 'wikitestsprogressive'" />
         <item itemvalue="Gradle.SearchWikiTests" />
+        <item itemvalue="Gradle.SearchWikiTests.searchWikiTestwithDataProvider" />
+        <item itemvalue="Gradle.SearchWikiTests.searchWikiTest1" />
         <item itemvalue="TestNG.C:/Users/lana/Documents/GitHub/portnaiaQA21_new/wikipedia-web-tests/src/test/resources/testng.xml" />
       </list>
     </recent_temporary>

@@ -1,0 +1,4 @@
+18:58:44.057 [Test worker] INFO  w.tests.SearchWikiTests - start test searchWikiTestwithDataProvider with parameters [Radiation]
+18:58:45.693 [Test worker] INFO  w.tests.SearchWikiTests - stop test searchWikiTestwithDataProvider with parameters [Radiation]
+18:58:45.696 [Test worker] INFO  w.tests.SearchWikiTests - start test searchWikiTestwithDataProvider with parameters [Calendar]
+18:58:47.604 [Test worker] INFO  w.tests.SearchWikiTests - stop test searchWikiTestwithDataProvider with parameters [Calendar]

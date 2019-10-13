@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="wikitestsprogressive.tests.SearchWikiTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-06T18:18:17" hostname="DESKTOP-7T33ROT" time="3.724">
+<testsuite name="wikitestsprogressive.tests.SearchWikiTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-13T15:58:44" hostname="DESKTOP-7T33ROT" time="3.536">
   <properties/>
-  <testcase name="searchWikiTest1" classname="wikitestsprogressive.tests.SearchWikiTests" time="2.257"/>
-  <testcase name="searchWikiTest2" classname="wikitestsprogressive.tests.SearchWikiTests" time="1.463"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="searchWikiTestwithDataProvider[0](Radiation)" classname="wikitestsprogressive.tests.SearchWikiTests" time="1.625"/>
+  <testcase name="searchWikiTestwithDataProvider[1](Calendar)" classname="wikitestsprogressive.tests.SearchWikiTests" time="1.907"/>
+  <system-out><![CDATA[18:58:44.057 [Test worker] INFO  w.tests.SearchWikiTests - start test searchWikiTestwithDataProvider with parameters [Radiation]
+18:58:45.693 [Test worker] INFO  w.tests.SearchWikiTests - stop test searchWikiTestwithDataProvider with parameters [Radiation]
+==================================================
+18:58:45.696 [Test worker] INFO  w.tests.SearchWikiTests - start test searchWikiTestwithDataProvider with parameters [Calendar]
+18:58:47.604 [Test worker] INFO  w.tests.SearchWikiTests - stop test searchWikiTestwithDataProvider with parameters [Calendar]
+==================================================
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
